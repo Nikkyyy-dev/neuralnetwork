@@ -1,5 +1,5 @@
 #include <iostream>
-#include <fstream>
+#include <fstream> //if you want to save weights
 #include <string>
 #include <vector>
 #include <cmath>
